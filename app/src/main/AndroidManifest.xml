@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PresINAdminPanel">
         <activity
+            android:name=".Authentication.RegisterScreen_final"
+            android:exported="false" />
+        <activity
+            android:name=".Authentication.RegisterScreen"
+            android:exported="false" />
+        <activity
+            android:name=".Authentication.LoginScreen"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="false" />
+        <activity
             android:name=".HomeScreen"
             android:exported="true">
             <intent-filter>

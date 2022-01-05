@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774659004800",
+    "project_id": "presin-admin",
+    "storage_bucket": "presin-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774659004800:android:c8afefb0441ef5b2714965",
+        "android_client_info": {
+          "package_name": "com.geekym.presinadminpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774659004800-iheun181did4tc9irckla0r023q03mun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN2r90CQTNvIc10hWw1QsQmMnSBimAYKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774659004800-iheun181did4tc9irckla0r023q03mun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

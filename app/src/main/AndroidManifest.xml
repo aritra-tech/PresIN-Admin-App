@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PresINAdminPanel">
         <activity
+            android:name=".Authentication.ForgotPasswordScreen"
+            android:exported="false" />
+        <activity
             android:name=".Authentication.RegisterScreen_final"
             android:exported="true" />
         <activity

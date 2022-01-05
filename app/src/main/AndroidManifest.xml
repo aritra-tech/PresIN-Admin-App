@@ -11,16 +11,16 @@
         android:theme="@style/Theme.PresINAdminPanel">
         <activity
             android:name=".Authentication.RegisterScreen_final"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".Authentication.RegisterScreen"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".Authentication.LoginScreen"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".SplashScreen"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".HomeScreen"
             android:exported="true">
